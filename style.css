@@ -1,69 +1,8 @@
-/*
-Theme Name: Botanical - HTML5 Ecommerce Template
-Author: Htmlbeans
-Author URI: https://themeforest.net/user/htmlbeans
-Version: 1
-Description: Base theme for HTML5
-Text Domain: base
-Tags: one-column, two-columns, three-columns
-Theme URI: http://www.htmlbeans.com/html/botanical/
-*/
+
 .btnTheme {
   background-color: #5ba515;
 }
 
-/* ---------------------------------------------------------
-	 
-1	 pageWrapper
-2	 bgCover
-3	 headingII
-4	 headingIII
-5	 headingIV
-6	 headingV
-7	 headingVI
-8	 headingVII
-9	 mainHeader
-10	 introBlock
-11	 bannerBlockHolder
-12	 heroBlockHolder
-13	 introBannerHolder
-14	 breadCrumbs
-15	 chooseUs-sec
-16	 chooseList
-17	 featureCol
-18	 contactListColumn
-19	 comming-timer
-20	 dealSlider
-21	 subscribeSecBlock
-22	 quotationBlock
-23	 masonryHolder
-24	 itemCol
-25	 testimonailSlider
-26	 newsPostColumn
-27	 newsBlogColumn
-28	 discoverSecHolder
-29	 partnerSlider
-30	 widget
-31	 show-head
-32	 pagination
-33	 productTextHolder
-34	 tabSetList
-35	 socialNetworkList
-36	 commentsBlock
-37	 commentform
-38	 cartHolder
-39	 footerHolder
-40	 copyRightHolder
-39	 abtSecHolder
-40	 progressCounter
-41	 accordionList
-42	 teamBlock
-43	 stepCol
-44	 contactListHolder
-45	 mapHolder
-46	 contactForm
-
----------------------------------------------------------*/
 html {
   background-color: #343a40;
 }
